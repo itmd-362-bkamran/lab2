@@ -11,7 +11,10 @@ h1 {
 	font-weight: bold;
 }
 input {
-	width: 90%;
+	width: 98%;
+	padding: 1em;
+	background: #f1f1f1;
+	border: none;
 }
 p {
 	margin: .5em;
@@ -21,10 +24,8 @@ p {
 	left: 0;
 	top: 0;
 	width: 80%;
-	margin-top: 10%;
-	margin-left: 10%;
-	margin-right: 10%;
-	margin-bottom: 10%;
+	height: 80%;
+	margin: 5% auto 10% auto;
 	background-color: White;
 	color: black;
 }
