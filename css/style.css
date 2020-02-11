@@ -49,3 +49,11 @@ input.submit {
 	margin-top: 25px;
 	font-size: 1.2em;
 }
+label.checkbox {
+	font-size: 1em;
+	margin: 0;
+}
+input.checkbox {
+	padding: 0em;
+	width: 0%;
+}
