@@ -26,12 +26,13 @@ p {
 	font-size: 1.2em;
 }
 .container {
-	position: relative;
+	position: absolute;
 	left: 0;
 	top: 0;
 	width: 80%;
 	height: 80%;
 	margin: 5% auto 10% auto;
+	margin-left: 10%;
 	background-color: White;
 	color: black;
 }
