@@ -7,8 +7,12 @@ div.header {
 	left: 10px;
 }
 h1 {
-	font-size: 5em;
+	position: relative;
+	font-size: 4em;
 	font-weight: bold;
+	left: 10px;
+	margin-bottom: 25px;
+	margin-top: 25px;
 }
 input {
 	width: 98%;
@@ -17,7 +21,9 @@ input {
 	border: none;
 }
 p {
-	margin: .5em;
+	margin-bottom: 20px;
+	margin-left: .5em;
+	font-size: 1.2em;
 }
 .container {
 	position: relative;
@@ -28,4 +34,7 @@ p {
 	margin: 5% auto 10% auto;
 	background-color: White;
 	color: black;
+}
+label {
+	font-size: 1.5em;
 }
