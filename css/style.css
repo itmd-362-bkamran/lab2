@@ -6,6 +6,12 @@ body {
 h1 {
 	font-size: 5em;
 	font-weight: bold;
-	padding: .5em;
+	border: .5em;
 	color: black;
+}
+input {
+	width: 100%;
+}
+p {
+	margin: .5em;
 }
