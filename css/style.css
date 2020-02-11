@@ -1,0 +1,42 @@
+body {
+	background-color: White;
+	font-family: "Times New Roman", Verdana, sans-serif;
+	color: green;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 3em;
+	font-weight: bold;
+}
+th {
+	border-style: solid;
+	border-color: black;
+	font-size: 1em;
+}
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	width: 75%;
+}
+td {
+	border-style: solid;
+	border-color: black;
+	font-size: 1em;
+}
+td.att {
+	font-weight: bold;
+}
+sup {
+	font-size: .5em;
+}
+p {
+	margin: 0;
+	padding: 0;
+	text-decoration: underline;
+}
+th.empty {
+	border-style: none;
+}
