@@ -11,6 +11,8 @@
 		text-align:center;
 		margin-left: 0em;
 	}
+	.container {
+		width: 100%;
 }
 	
 @media screen and (min-width: 1200px) {
