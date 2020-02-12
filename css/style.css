@@ -62,15 +62,13 @@ input.checkbox {
 	margin-right: 1%;
 }
 label.float {
-	float: right;
-	margin-right: 40%;
+	margin-left: 5%;
 }
 input.name {
 	width: 50%;
 }
 input.float {
-	float: right;
-	display: inline-block;
+	margin-left: 5%;
 }
 div.container1 {
 	width:50%;
