@@ -45,7 +45,10 @@
 	}
 	label.float {
 		margin-left: 0%;
-	}		
+	}	
+	button {
+		left 0%;
+	}
 }
 	
 @media screen and (min-width: 1200px) {
