@@ -31,6 +31,12 @@
 		width:100%;
 		float: none;
 	}
+	input.float {
+		margin-left: 0%;
+	}
+	label.float {
+		margin-left: 0%;
+	}		
 }
 	
 @media screen and (min-width: 1200px) {
@@ -89,6 +95,7 @@
 		color: white;
 		margin-top: 25px;
 		font-size: 1.2em;
+		text-align: center;
 	}
 	label.checkbox {
 		font-size: 1.5em;
