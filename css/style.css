@@ -72,3 +72,10 @@ input.float {
 	float: right;
 	display: inline-block;
 }
+div.container1 {
+	width:50%;
+}
+div.container_float {
+	width:50%;
+	float: right;
+}
