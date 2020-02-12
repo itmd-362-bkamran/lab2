@@ -12,7 +12,7 @@
     <div class="container">
       <h1>Sign Up Form</h1>
       <p>Please enter your information below.</p>
-      <form>
+      <form id="submitform">
         <div class="container_float1">
           <label>First Name</label>
           <input  type="text" placeholder="Please enter your first name" name="fname_field"/>
@@ -50,8 +50,8 @@
           <input class="checkbox" type="checkbox" checked="checked">I agree to the terms and conditions
           </label>
         </div>
-        <input class="submit" type="submit" name="submit_field" value="Submit"/>
       </form>
+	   <button type="submit" form="submitform" name="submit_field" value="Submit">Submit</button>
     </div>
   </body>
 </html>
