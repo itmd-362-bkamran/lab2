@@ -5,6 +5,11 @@
 	}
 	h1 {
 		text-align: center;
+		left: 0px;
+	}
+	p {
+		text-align:center;
+		margin-left: 0em;
 	}
 }
 	
