@@ -6,10 +6,12 @@
 	h1 {
 		text-align: center;
 		left: 0px;
+		font-size: 5em;
 	}
 	p {
 		text-align:center;
 		margin-left: 0em;
+		font-size: 2.5em;
 	}
 	.container {
 		width: 100%;
@@ -23,6 +25,12 @@
 	}
 	input {
 		text-align: center;
+		padding: 1.5em;
+		font-size: 1em;
+	}
+	label {
+		font-size: 2em;
+		margin-left: 0em;
 	}
 	div.container_float {
 		width:100%;
@@ -129,7 +137,7 @@
 		float: right;
 	}
 	div.container_float1 {
-	width:50%;
-	float: left;
+		width:50%;
+		float: left;
 	}
 }
