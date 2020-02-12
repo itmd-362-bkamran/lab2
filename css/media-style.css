@@ -39,6 +39,7 @@
 		border: none;
 	}
 	p {
+		text-align: left;
 		margin-bottom: 20px;
 		margin-left: .5em;
 		font-size: 1.2em;
