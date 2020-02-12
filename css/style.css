@@ -78,3 +78,7 @@ div.container_float {
 	width:50%;
 	float: right;
 }
+div.container_float1 {
+	width:50%;
+	float: left;
+}
