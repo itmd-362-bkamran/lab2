@@ -24,7 +24,6 @@ div {
 }
 input {
 	text-align: center;
-	padding: 1.5em;
 	font-size: 1em;
 }
 label {
@@ -40,10 +39,10 @@ div.container_float1 {
 	float: none;
 }
 input.float {
-	margin-left: 0%;
+	margin-left: 0px;
 }
 label.float {
-	margin-left: 0%;
+	margin-left: 0px;
 }	
 button {
 	left: 0%;
@@ -92,7 +91,8 @@ button {
 		margin-left: 10%;
 		background-color: White;
 		color: black;
-		overflow: hidden;
+		overflow: auto;
+		overflow-x: hidden;
 	}
 	label {
 		font-size: 1.5em;
