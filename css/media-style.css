@@ -1,57 +1,56 @@
-@media screen and (min-width: 400px) {
-	body {
-		background-color: #474e5d;
-		font-family: "Times New Roman", Verdana, sans-serif;
-	}
-	h1 {
-		text-align: center;
-		left: 0px;
-		font-size: 5em;
-	}
-	p {
-		text-align:center;
-		margin-left: 0em;
-		font-size: 2.5em;
-	}
-	.container {
-		width: 100%;
-		margin: 0% auto 0% auto;
-		margin-left: 0%;
-		margin-top: 15%;
-		overflow: auto;
-	}
-	div {
-		text-align: center;
-	}
-	input {
-		text-align: center;
-		padding: 1.5em;
-		font-size: 1em;
-	}
-	label {
-		font-size: 2em;
-		margin-left: 0em;
-	}
-	div.container_float {
-		width:100%;
-		float: none;
-	}
-	div.container_float1 {
-		width:100%;
-		float: none;
-	}
-	input.float {
-		margin-left: 0%;
-	}
-	label.float {
-		margin-left: 0%;
-	}	
-	button {
-		left: 0%;
-	}
+body {
+	background-color: #474e5d;
+	font-family: "Times New Roman", Verdana, sans-serif;
 }
+h1 {
+	text-align: center;
+	left: 0px;
+	font-size: 5em;
+}
+p {
+	text-align:center;
+	margin-left: 0em;
+	font-size: 2.5em;
+}
+.container {
+	width: 100%;
+	margin: 0% auto 0% auto;
+	margin-left: 0%;
+	margin-top: 15%;
+	overflow: auto;
+}
+div {
+	text-align: center;
+}
+input {
+	text-align: center;
+	padding: 1.5em;
+	font-size: 1em;
+}
+label {
+	font-size: 2em;
+	margin-left: 0em;
+}
+div.container_float {
+	width:100%;
+	float: none;
+}
+div.container_float1 {
+	width:100%;
+	float: none;
+}
+input.float {
+	margin-left: 0%;
+}
+label.float {
+	margin-left: 0%;
+}	
+button {
+	left: 0%;
+}
+
 	
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 800px) {
 	body {
 		background-color: #474e5d;
 		font-family: "Times New Roman", Verdana, sans-serif;
@@ -121,13 +120,13 @@
 		display: inline;
 	}
 	label.float {
-		margin-left: 5%;
+		margin-left: 50px;
 	}
 	input.name {
 		width: 50%;
 	}
 	input.float {
-		margin-left: 5%;
+		margin-left: 50px;
 	}
 	div {
 		text-align: left;
